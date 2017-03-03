@@ -3,14 +3,17 @@
 __pycache__
 
 # Unit test / coverage reports
-htmlcov/
 .tox/
 .coverage
 .coverage.*
 nosetests.xml
 coverage.xml
 *,cover
+htmlcov/*
 
 # virtualenv
 venv/
 ENV/
+
+# secrets
+.env
