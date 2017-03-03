@@ -15,5 +15,5 @@ htmlcov/*
 venv/
 ENV/
 
-# secrets
+# env secrets
 .env
